@@ -24,8 +24,6 @@ Tested with:
 - PyTorch 1.9.0
 - Python 3.7.0
 
-### Data:
-We used 464 subjects from BCP dataset in our research. For each subject, we generated the funcational connectivity (FC) matrices for infants.
 
 ### Citation:
 If you used the code or data of this project,  please cite:
