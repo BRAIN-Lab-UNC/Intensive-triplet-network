@@ -7,9 +7,8 @@
 This repository provides a PyTorch implementation of the models adopted in the following papers:
 
 - Hu, D., et al. "Disentangled intensive triplet autoencoder for infant functional connectome fingerprinting." International Conference on Medical Image Computing and Computer-Assisted Intervention. Springer, 2020.
-- Yu, X., et al. "Longitudinal infant functional connectivity prediction via conditional intensive triplet network." International Conference on Medical Image Computing and Computer-Assisted Intervention. Springer, Cham, 2022.
+- Yu, X., et al. "Longitudinal infant functional connectivity prediction via conditional intensive triplet network." International Conference on Medical Image Computing and Computer-Assisted Intervention. Springer, 2022.
 
-The first paper proposes the Triplet Structure for distengling age-related and identity-related features in infant functional connectome fingerprinting, and the second paper further expands the research on Longitudinal infant functional connectivity prediction.
 
 ### Code:
 #### main_pcc_mae.py
