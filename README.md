@@ -1,4 +1,4 @@
-# Longitudinal infant functional connectivity prediction via conditional intensive triplet network
+# Longitudinal infant functional connectome prediction and fingerprinting
 
 ### Framework:
 ![framework](main.png)
